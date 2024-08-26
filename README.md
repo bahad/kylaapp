@@ -26,3 +26,6 @@ This project is a Flutter application built with a focus on state management, re
 1. Clone the repo:
    ```bash
    git clone git@github.com:bahad/kylaapp.git
+
+[flutter_01](https://github.com/user-attachments/assets/c5df6915-fec0-43e9-bab8-d086f8705a42)
+
